@@ -1,0 +1,95 @@
+{
+    "ru": {
+        "phrases_single": [
+            "Да ладно! У тебя вырос {teeth_gain} зуб!",
+            "Ого! С одним дополнительным зубом тебе теперь нужна зубочистка!",
+            "{teeth_gain} новый зуб! Пора завести зубную нить!",
+            "Теперь у тебя есть еще {teeth_gain} зуб, который растет замечательно!",
+            "Здорово! У тебя появился еще один зуб!",
+            "У тебя теперь на {teeth_gain} зуб больше!"
+        ],
+        "phrases_multiple_2_4": [
+            "Чудо-чудо! У тебя отросло {teeth_gain} зуба! Как такое возможно!",
+            "Теперь у тебя на {teeth_gain} зуба больше! Невероятно!",
+            "Ты снова сияешь с новыми {teeth_gain} зубами!",
+            "У тебя новый рекорд! Выросло {teeth_gain} зуба!"
+            
+        ],
+        "phrases_multiple_5_plus": [
+            "А ты точно не хочешь стать акулой? У тебя выросло аж {teeth_gain} зубов!",
+           "У тебя выросло аж {teeth_gain} зубов! Ты все больше похож на лису!",
+            "Твоя улыбка стала еще шире! У тебя выросло {teeth_gain} зубов!",
+            "Это невероятно! Аж {teeth_gain} новых зубов! Как ты это делаешь?"
+        ]
+            },
+    
+    "ua": {
+        "phrases_single": [
+            "Та ну на! У тебе виріс {teeth_gain} зуб!",
+            "Ого! З одним додатковим зубом тобі тепер потрібна зубочистка!",
+            "{teeth_gain} новий зуб! Час обзавестись зубною ниткою!",
+            "Тепер у тебе є ще {teeth_gain} зуб, який має чудовий ріст!",
+            "Чудово! У тебе з'явився ще один зуб!",
+            "У тебе тепер на {teeth_gain} зуб більше!"
+        ],
+        "phrases_multiple_2_4": [
+            "Диво-диво! У тебе відрісло {teeth_gain} зуби! Це ж треба таке!",
+            "Тепер у тебе на {teeth_gain} зуби більше! Неймовірно!",
+            "Ти знову сяєш з {teeth_gain} новими зубами!",
+            "У тебе новий рекорд! {teeth_gain} зуби відрісло!"
+        ],
+        "phrases_multiple_5_plus": [
+            "А тобі точно не треба стати акулою? У тебе відрісло аж {teeth_gain} зубів!",
+            "Твоя усмішка стала ще ширша! У тебе відрісло {teeth_gain} зубів!",
+            "У тебе відрісло аж {teeth_gain} зубів! Ти все більше схожий на лиса!",
+            "Це неймовірно! Аж {teeth_gain} нових зубів! Як ти це робиш?"
+        ]
+    },
+    
+        "by": {
+            "phrases_single":[
+                "Ня можа быць! У цябе вырас {teeth_gain} зуб!",
+                "Ого! З адным дадатковым зубом табе цяпер патрэбна зубачыстка!",
+                "{teeth_gain} новы зуб! Час абзавесціся зубной ніткай!",
+                "Цяпер у цябе ёсць яшчэ {teeth_gain} зуб, які добра растэ!",
+                "Выдатна! У цябе з'явіўся яшчэ адзін зуб!",
+                "У цябе цяпер на {teeth_gain} зуба больш!"
+            ],
+            "phrases_multiple_2_4":[
+                "Цуда-цуда! У цябе атрасла {teeth_gain} зубы! Як гэта магчыма!",
+                "Цяпер у цябе на {teeth_gain} зубы больш! Няўзыраю!",
+                "Ты зноў сяееш з новымі {teeth_gain} зубамі!",
+                "У цябе новы рэкорд! {teeth_gain} зубы выраслі!"
+            ],
+            "phrases_multiple_5_plus":[
+                "Ці табе ўпэўнена не трэба ставаць акулай? У цябе вырасла аж {teeth_gain} зубоў!",
+                "У цябе вырасло аж {teeth_gain} зубоў! Ты ўсё больш падабаеш на ліса!",
+                "Твая ўсмешка стала яшчэ шырэйшая! У цябе вырасло {teeth_gain} зубоў!",
+                "Гэта няўзыраю! Аж {teeth_gain} новых зубоў! Як ты гэта робіш?"
+            ]
+        },
+
+        "en":{
+            "phrases_single":[
+                "No way! You've grown {teeth_gain} tooth!",
+                "Wow! With an extra tooth, you now need a toothpick!",
+                "{teeth_gain} new tooth! Time to get some dental floss!",
+                "Now you have one more tooth, and it's growing nicely!",
+                "Great! You've got another tooth!",
+                "You now have {teeth_gain} more tooth!"
+            ],
+            "phrases_multiple_2_4":[
+                "Amazing! You've grown {teeth_gain} teeth! How did that happen!",
+                "Now you have {teeth_gain} more teeth! Incredible!",
+                "You're shining again with {teeth_gain} new teeth!",
+                "You have a new record! {teeth_gain} teeth have grown!"
+            ],
+            "phrases_multiple_5_plus":[
+                "Are you sure you don't want to be a shark? You've grown {teeth_gain} teeth!",
+                "You've grown {teeth_gain} teeth! You're looking more and more like a fox!",
+                "Your smile got even wider! You've grown {teeth_gain} teeth!",
+                "This is incredible! {teeth_gain} new teeth! How do you do it?"
+            ]
+        }
+    
+}

@@ -1,0 +1,10 @@
+restored/
+Bot_Fox_source/
+.venv/
+__pycache__/
+*.pyc
+**/admin.env
+**/.env
+**/.env.env
+**/DataBase.sql
+**/ads.sqlite3
